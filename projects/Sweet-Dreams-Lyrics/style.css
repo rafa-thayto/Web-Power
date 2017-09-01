@@ -78,8 +78,8 @@ main section div:hover .strophe-image {
     height: 150px;
 }
 
-.multiple-lines:hover {
-    margin-bottom: 300px;
+main section div:hover .multiple-lines {
+    margin-bottom: 70px;
 }
 
 .music-lyrics {
