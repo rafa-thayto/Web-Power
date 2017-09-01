@@ -2,3 +2,19 @@
     margin: 0px;
     box-sizing: border-box;
 }
+
+body {
+    background-color: #7c4dff;
+}
+
+p {
+    display: block;
+}
+
+.background-audio {
+    display: none;
+}
+
+section {
+    
+}
